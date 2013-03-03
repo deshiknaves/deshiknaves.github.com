@@ -6,7 +6,7 @@ comments: true
 categories: [Javascript, jQuery, Plugins] 
 ---
 
-{% img center /images/post/droption.png 'image' 'images' %}
+{% img center http://www.deshiknaves.com/droption/droption.png Droption %}
 
 I really wish that browsers has the option to customize inputs as easily as other things can be customized. Unfortunately to acheive what we really want to in our designs, we have to rely on Javascript. This is not all bad, but we can potentially spend a lot of time trying to make the tweaks that we need to. We have been using a few different **select** replacements over the last few weeks and a lot of them either have issues in different browsers or don't have the customizabitly that you would want. So I decided to make something that was simple but still achieved what you wanted to achieve. Enter Droption. The idea is that it's a simple replacement for any customized select input. It doesn't target all elements with a class, rather you tell it which select inputs it should target.
 
