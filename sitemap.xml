@@ -2,14 +2,20 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://deshiknaves.github.com/blog/2012/09/16/finally-octopressin-it/</loc>
-        <lastmod>2012-09-16T23:42:11+10:00</lastmod>
+        <lastmod>2013-03-03T16:38:30+11:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://deshiknaves.github.com/blog/2013/03/03/droption-dot-js-simple-select-replacement/
+        </loc>
+        <lastmod>2013-03-03T18:58:42+11:00</lastmod>
     </url>
     <url>
         <loc>http://deshiknaves.github.com/</loc>
-        <lastmod>2012-09-16T23:42:11+10:00</lastmod>
+        <lastmod>2013-03-03T18:58:42+11:00</lastmod>
     </url>
     <url>
         <loc>http://deshiknaves.github.com/blog/archives/</loc>
-        <lastmod>2012-09-16T23:42:11+10:00</lastmod>
+        <lastmod>2013-03-03T18:58:42+11:00</lastmod>
     </url>
 </urlset>
